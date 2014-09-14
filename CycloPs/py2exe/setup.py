@@ -25,6 +25,6 @@ print PepLibGen.__file__
 
 setup(options=opts, 
 	  author= 'Fergal Duffy',
-	  author_email = 'fergal.duffy@ucd.ie',
+	  author_email = 'fergaljd@gmail.com',
 	  windows=['../CycloPs.py'],
 	  data_files=data_files)
