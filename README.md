@@ -15,5 +15,7 @@ and you have the RDKit (http://www.rdkit.org/) python extensions,
 and the Python Imaging Library (http://www.pythonware.com/products/pil/) installed. 
 You can then call CycloPs.py as a normal python script.
 
+A standard setup.py distutil script is provided - install PepLibGen using python setup.py install.
+
 All the CycloPs code in this repository is released under the terms of the
 GNU General Public license V2, described in the LICENSE.txt file.
