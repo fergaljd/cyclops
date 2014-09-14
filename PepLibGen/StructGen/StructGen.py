@@ -6,7 +6,7 @@ constrained and unconstrained peptides, for producing the approriate SMILES
 
 All peptide sequences are handled as a string of 1 letter residue codes
 
-Author:Fergal Duffy. email:fergal.duffy@ucd.ie
+Author:Fergal Duffy. email:fergaljd@gmail.com
 
 Requires python 2.6 or better
 
