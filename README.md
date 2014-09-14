@@ -1,8 +1,11 @@
+DESCRIPTION
+===========
 CycloPs is a GUI python programme and accompanying library for building constrained
 peptide structures from peptide sequences, as described in the paper:
-  CycloPs: generating virtual libraries of cyclized and constrained peptides including nonnatural amino acids
-  FJ Duffy, M Verniere, M Devocelle, E Bernard, DC Shields, AJ Chubb
-  Journal of chemical information and modeling 51 (4), 829-836
+  
+ CycloPs: generating virtual libraries of cyclized and constrained peptides including nonnatural amino acids
+ FJ Duffy, M Verniere, M Devocelle, E Bernard, DC Shields, AJ Chubb
+ Journal of chemical information and modeling 51 (4), 829-836
 
 The cyclops repository contains all the code necessary to run the GUI CycloPs app.
 
