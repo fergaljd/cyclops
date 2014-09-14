@@ -16,6 +16,8 @@ and the Python Imaging Library (http://www.pythonware.com/products/pil/) install
 You can then call CycloPs.py as a normal python script.
 
 A standard setup.py distutil script is provided - install PepLibGen using python setup.py install.
+This will install PepLibGen as a python library in the standard location, and CycloPs.py a
+script on the users PATH, callable with CycloPs.py.
 
 All the CycloPs code in this repository is released under the terms of the
 GNU General Public license V2, described in the LICENSE.txt file.
