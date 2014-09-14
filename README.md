@@ -1,4 +1,4 @@
-DESCRIPTION
+CycloPs: A Cyclic Peptide Library Generator
 ===========
 CycloPs is a GUI python programme and accompanying library for building constrained
 peptide structures from peptide sequences, as described in the paper:
