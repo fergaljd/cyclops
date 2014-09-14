@@ -19,5 +19,7 @@ A standard setup.py distutil script is provided - install PepLibGen using python
 This will install PepLibGen as a python library in the standard location, and CycloPs.py a
 script on the users PATH, callable with CycloPs.py.
 
+"readme.txt" in the CycloPs/ directory contains more information about using and distributing CycloPs.
+
 All the CycloPs code in this repository is released under the terms of the
 GNU General Public license V2, described in the LICENSE.txt file.

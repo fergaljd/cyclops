@@ -10,6 +10,7 @@ setup(name='PepLibGen',
       author_email='fergaljd@gmail.com',
       packages=['PepLibGen', 'PepLibGen.StructGen', 'PepLibGen.Analysis'],
       scripts = [
-              'CycloPs/CycloPs.py'
+              'CycloPs/CycloPs.py',
+              'CycloPs/aa_converter.py'
           ]
       )
