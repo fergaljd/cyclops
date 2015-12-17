@@ -246,7 +246,7 @@ d_aminos ={
                  'Formula': 'C5H10N2O3',
                  'Letter': 'q',
                  'MolWeight': '146.15',
-                 'SMILES': 'N[C@@]([H])(CCC(=O)N)C(=O)O',
+                 'SMILES': 'N[C@]([H])(CCC(=O)N)C(=O)O',
                  'cterm': False,
                  'disulphide': False,
                  'ester': False,
